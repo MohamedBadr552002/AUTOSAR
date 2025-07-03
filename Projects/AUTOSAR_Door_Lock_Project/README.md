@@ -1,4 +1,4 @@
-# Door Lock Indication Project Based on Autosar
+# Door Lock Indication Project Based on AUTOSAR
 
 ## User Story 
 Design and Implement a Door Lock Indication System based on Autosar specification, Read the Door state and take an action based on that state
